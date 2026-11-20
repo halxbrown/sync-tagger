@@ -1,0 +1,6 @@
+# your music and local test data stay off GitHub
+samples/
+data/
+screenshots/
+__pycache__/
+*.pyc

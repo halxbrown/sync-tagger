@@ -1,0 +1,7 @@
+samples/
+data/
+screenshots/
+keytest.py
+__pycache__/
+*.pyc
+.git/

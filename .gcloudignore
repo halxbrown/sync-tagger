@@ -1,0 +1,9 @@
+# Files NOT uploaded to Google Cloud when deploying (your music, local data, test tools)
+.gcloudignore
+samples/
+data/
+screenshots/
+keytest.py
+__pycache__/
+*.pyc
+.git/
